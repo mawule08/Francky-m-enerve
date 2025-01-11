@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main{
-    printf("C'est mon projet");
+int main()
+{
+    printf("Bonjour cher utilisateur.");
 }
